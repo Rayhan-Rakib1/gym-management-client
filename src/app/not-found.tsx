@@ -46,7 +46,7 @@ export default function NotFound() {
                         Page Not Found
                     </h1>
                     <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
-                        Looks like this page doesn't exist or may have been moved.
+                        Looks like this page doesn't exist or may have been moved..
                     </p>
                 </div>
 
