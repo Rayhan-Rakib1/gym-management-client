@@ -91,7 +91,7 @@
   - Track member progress
 - **Workout Plan Creation**
   - Create customized workout plans
-  - Assign exercises with sets, reps, and duration
+  - Assign exercises with sets, reps, and duration.
   - Manage and update existing plans
 - **Class Management**
   - Schedule and manage fitness classes
